@@ -48,7 +48,13 @@ nav a{
 }
 
 main{
+
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+    margin-bottom: 30px;
     background-color: white;
+    box-shadow: 0px 0px 10px black;
 }
 
 main h1{
@@ -62,6 +68,18 @@ main h2{
 
     font-family: Android;
     color: #063d1e;
+}
+
+main img{
+
+    width: 100%;
+}
+
+.pequena{
+
+    width: 50%;
+    display: block;
+    margin: auto;
 }
 
 footer{
