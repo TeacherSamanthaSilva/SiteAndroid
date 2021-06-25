@@ -158,3 +158,8 @@ aside > h3{
     padding: 10px;
 
 }
+
+div > iframe{
+    margin-left: 250px;
+    margin-right: 250px;
+}
