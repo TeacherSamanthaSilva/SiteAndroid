@@ -27,6 +27,14 @@ body{
     font-family:  'Roboto', sans-serif;
 }
 
+p{
+    margin: 15px 0px;
+    text-align: justify;
+    text-indent: 30px;
+    line-height: 2em;
+    font-size: 1em;
+}
+
 header{
 
     background-color:#1a5c37 ;
@@ -98,6 +106,9 @@ main h2{
 
     font-family: Android;
     color: #063d1e;
+    font-size: 1.3em;
+    background-image: linear-gradient(to right,#83e1ad,transparent);
+    text-indent: 10px;
 }
 
 main img{
@@ -111,6 +122,8 @@ main img{
     display: block;
     margin: auto;
 }
+
+
 
 footer{
 
