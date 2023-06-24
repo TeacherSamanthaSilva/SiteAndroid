@@ -1,3 +1,8 @@
+@font-face {
+    font-family: droid;
+    src: url(pacote-projeto-d010/fontes/idroid.otf);
+}
+
 body{
 
     background-color: #c5ebc6;
