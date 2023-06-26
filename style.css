@@ -32,3 +32,7 @@ main{
 h1,h2,h3{
     font-family: droid, sans-serif;
 }
+
+footer{
+background-color: var(--cor0);
+}
