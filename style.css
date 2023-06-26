@@ -28,3 +28,7 @@ main{
     color: var(--cor4);
 
 }
+
+h1,h2,h3{
+    font-family: droid, sans-serif;
+}
