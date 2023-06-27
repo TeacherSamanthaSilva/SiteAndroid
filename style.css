@@ -12,6 +12,12 @@
     src: url(pacote-projeto-d010/fontes/idroid.otf);
 }
 
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
 body{
 
     background-color: #c5ebc6;
