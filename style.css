@@ -27,23 +27,31 @@ body{
 header{
 
     color: var(--cor5);
+    padding: 20px;
 }
 
 main{
 
     color: var(--cor4);
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+    background-color: #c5ebd6;
+    padding: 10px;
 
 }
 
 h1,h2,h3{
     font-family: droid, sans-serif;
+    padding: 10px;
 }
 
 footer{
 background-color: var(--cor0);
+text-align: center;
 }
 
-img{
+main img{
 
     width: 100%;
 }
