@@ -62,6 +62,7 @@ h1,h2,h3{
 footer{
 background-color: var(--cor0);
 text-align: center;
+padding: 5px;
 }
 
 main img{
@@ -74,4 +75,23 @@ p{
     margin: 15px 0px;
     text-indent: 30px;
     line-height: 1em;
+}
+
+
+aside{
+    background-color: var(--cor0);
+    padding: 10px;
+}
+
+aside h3{
+
+    color: var(--cor4);
+    font-weight: 900;
+    
+}
+
+aside ul{
+    list-style-position: inside;
+    columns: 2;
+    list-style: '✔️';
 }
