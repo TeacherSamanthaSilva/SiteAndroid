@@ -41,23 +41,7 @@ header h1,h2{
     text-shadow: 2px 2px 0px black;
 }
 
-nav{
 
-    padding: 10px;
-  
-    
- 
-}
-
-nav a{
-
-    color: white;
-    text-decoration: none;
-    padding: 10px;
-    font-weight: bold;
-    cursor: pointer;
-
-}
 
 main{
 
@@ -82,5 +66,12 @@ text-align: center;
 
 main img{
 
-    width: 100%;
+    max-width: 350px;
+}
+
+p{
+
+    margin: 15px 0px;
+    text-indent: 30px;
+    line-height: 1em;
 }
